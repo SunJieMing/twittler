@@ -4,29 +4,29 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 #override {
   background-color: #F6F6F6;
 }
-.container {
-  width: 100%;
-  text-align: left;
-}
-.container ul {
-  width: 60%;
-  margin: auto;
-  margin-top: 5%;
-  margin-bottom: 5%;
-}
-.container ul li {
-  font-family: sans-serif;
-  color: #333;
-  font-size: 14px;
-  padding: 9px 12px;
-}
-.container #title h2{
-  font-size: 22px;
-  line-height: 22px;
-  text-align: left;
-  color: #66757f;
-}
 #author {
   color: #8899a6;
   text-align: left;
 }
+.container {
+  width: 100%;
+  text-align: left;
+}
+  .container ul {
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+    .container ul li {
+      font-family: sans-serif;
+      color: #333;
+      font-size: 14px;
+      padding: 9px 12px;
+    }
+      .container #title h2{
+        font-size: 22px;
+        line-height: 22px;
+        text-align: left;
+        color: #66757f;
+      }
